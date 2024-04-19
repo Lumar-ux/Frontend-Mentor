@@ -1,5 +1,7 @@
 # Frontend Mentor - Social links profile
 
+https://lumar-ux.github.io/Frontend-Mentor/
+
 ![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
